@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi there, I'm Vladimir 👋</h1>
 <h3 align="center">JavaScript and NodeJS Developer 💻 from Ukraine 🇺🇦</h3>
 
