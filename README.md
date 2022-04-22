@@ -1,5 +1,4 @@
 <image src="/header.png" alt="header">
-<h3 align="center">JavaScript and NodeJS Developer 💻 from Ukraine 🇺🇦</h3>
   
 <!--
 **echo-vladimir/echo-vladimir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
