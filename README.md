@@ -1,4 +1,4 @@
-<image src="/header.png" alt="header">
+<image src="/header.jpg" alt="header">
   
 <!--
 **echo-vladimir/echo-vladimir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
